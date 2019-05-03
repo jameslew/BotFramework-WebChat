@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/BotFramework-WebChat/16.customization-selectable-activity/static/js/runtime~main.f4711848.js"
   },
   {
-    "revision": "e5474e8435791fd9188e",
-    "url": "/BotFramework-WebChat/16.customization-selectable-activity/static/js/main.e5474e84.chunk.js"
+    "revision": "9f597a775f7acd74a9ba",
+    "url": "/BotFramework-WebChat/16.customization-selectable-activity/static/js/main.9f597a77.chunk.js"
   },
   {
     "revision": "c296446faf20c6d79769",
     "url": "/BotFramework-WebChat/16.customization-selectable-activity/static/js/1.c296446f.chunk.js"
   },
   {
-    "revision": "e5474e8435791fd9188e",
+    "revision": "9f597a775f7acd74a9ba",
     "url": "/BotFramework-WebChat/16.customization-selectable-activity/static/css/main.e203ec75.chunk.css"
   },
   {
-    "revision": "3efcc131dc52dc8dcbe2393d34008d3f",
+    "revision": "11292a7b59d372cfcceda49c83f3d381",
     "url": "/BotFramework-WebChat/16.customization-selectable-activity/index.html"
   }
 ];
