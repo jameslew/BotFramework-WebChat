@@ -1,8 +1,7 @@
-<p align="center">
-  <a href="https://azure.microsoft.com/en-us/services/bot-service/">
-    <img src="https://raw.githubusercontent.com/Microsoft/BotFramework-WebChat/master/doc/abs-logo.png" alt="Azure Bot Services logo" width="240" />
-  </a>
-</p>
+# Bot Framework WebChat
+
+### [Click here to find out what's new in Bot Framework for //build2019!](https://github.com/Microsoft/botframework/blob/master/whats-new.md#whats-new)
+
 
 <p align="center">A highly-customizable web-based client for Azure Bot Services.</p>
 
